@@ -7,6 +7,10 @@
   <groupId>org.example</groupId>
   <artifactId>SpringLevel1</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>lesson1-servlet-api</module>
+    <module>lesson2-spring-basics</module>
+  </modules>
   <packaging>pom</packaging>
 
   <name>SpringLevel1 Maven Webapp</name>
